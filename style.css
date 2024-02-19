@@ -1,0 +1,33 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+body {
+  background-color: #00cecb;
+  margin-top: 50px;
+}
+h1 {
+  text-align: center;
+}
+#content {
+  text-align: center;
+}
+#res {
+  text-align: center;
+  height: 50px;
+  font-size: 40px;
+  margin: 20px;
+}
+
+#sub {
+  color: bisque;
+  background-color: green;
+}
+
+#get {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #ffffea;
+}
